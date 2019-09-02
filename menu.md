@@ -1,6 +1,7 @@
 ## Dinner Menu
-|:-----|-----:|
+
 |Item |Price|
+|:-----|-----:|
 |Lamb Ragu Gnocchi |$12.9 |
 |Vongole Squid Ink|$10.9 |
 |Seafood Risotto |$15 |
