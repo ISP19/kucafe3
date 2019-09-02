@@ -8,3 +8,4 @@
 |-----|-----|-------|
 |Sivanat Subpaisarn |Chef | tiemfah |
 |Pantakarn Kiatpaisansopon |Waiter | wodwine |
+|Cnanachida Fuachai |Bartender | llleyelll |
