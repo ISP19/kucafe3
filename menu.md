@@ -12,6 +12,14 @@
 |Item |Price|
 |:-----|-----:|
 |Tea|$1.1|
+|Chai(Masala tea)|$2|
+|Bubble milk tea|$5|
+|Water|$1|
+|Coffee|$2.5|
+|Ovaltine|$2|
+|Hot Chocolate|$1.5|
+
+
 
 ---
 We accept all payment methods.
