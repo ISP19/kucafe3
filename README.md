@@ -6,10 +6,9 @@
 
 |Name |Role |Github |
 |-----|-----|-------|
-|Sivanat Subpaisarn |Chef | tiemfah |
-|Pantakarn Kiatpaisansopon |Waiter | wodwine |
-|Chanachida Fuachai |Bartender | llleyelll |
-|Sirikon  Songsaengthong |Pastry Chef | Sirikonss |
-|Kasidis Luangwutiwong |Musician | KasidisGit |
-|Nattapol Boonyapornpong |Manager | bleachjade |
-
+|Sivanat Subpaisarn |Breakfast Menu | tiemfah |
+|Nattapol Boonyapornpong |Breakfast Menu | bleachjade |
+|Pantakarn Kiatpaisansopon |Lunch Menu | wodwine |
+|Kasidis Luangwutiwong |Lunch Menu | KasidisGit |
+|Chanachida Fuachai |Dinner Menu | llleyelll |
+|Sirikon  Songsaengthong |Dinner Menu | Sirikonss |
