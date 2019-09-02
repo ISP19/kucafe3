@@ -1,4 +1,4 @@
-## Menu
+## Lunch Menu
 |Item |Price|
 |:-----|-----:|
 |Fried rice|$100|
@@ -17,7 +17,7 @@
 |Crispy Cod BLT|$1400|
 |Crispy Cod BLT 2|$1500|
 
-## Beverage
+## Lunch Beverage
 
 |Item |Price|
 |:-----|-----:|
