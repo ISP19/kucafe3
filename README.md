@@ -10,4 +10,4 @@
 |Pantakarn Kiatpaisansopon |Waiter | wodwine |
 |Chanachida Fuachai |Bartender | llleyelll |
 |Sirikon  Songsaengthong |Pastry Chef | Sirikonss |
-|Kasidis Luangwutiwong |waiter | KasidisGit |
+|Kasidis Luangwutiwong |Waiter | KasidisGit |
