@@ -15,7 +15,7 @@
 |Open Face Pub Steak Sandwich|$1200|
 |Apple BBQ Chicken Sandwich|$1300|
 |Crispy Cod BLT|$1400|
-
+|Crispy Cod BLT 2|$1500|
 
 ## Beverage
 
