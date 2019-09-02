@@ -7,3 +7,4 @@
 |Name |Role |Github |
 |-----|-----|-------|
 |Sivanat Subpaisarn |Chef | tiemfah |
+|Pantakarn Kiatpaisansopon |Waiter | wodwine |
