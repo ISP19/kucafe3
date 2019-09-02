@@ -10,11 +10,17 @@
 |Sardine Bruschetta | $14.9|
 |Barbecue Pork Ribs|$12 |
 |Pork Loin|$15 |
-## Beverage
+
+## Dinner Beverage
 
 |Item |Price|
 |:-----|-----:|
-|Tea|$1.1|
+|Sparkling Rosemary Limeade |$10|
+|Pink Grapefruit and Pomegranate Soda  |$10|
+|Cinnamon Water |$10|
+|Pomegranate Juice |$10|
+|Cranberry Juice |$10|
+|Green Tea |$5|
 
 ---
 We accept all payment methods.
