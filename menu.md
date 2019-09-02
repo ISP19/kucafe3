@@ -1,13 +1,13 @@
 ## Menu
 |Item |Price|
 |:-----|-----:|
-|Water|$200|
+|Fried rice|$100|
 
 ## Beverage
 
 |Item |Price|
 |:-----|-----:|
-|Tea|$1.1|
+|Buble Tea|$20|
 
 ---
 We accept all payment methods.
