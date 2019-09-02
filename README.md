@@ -10,3 +10,4 @@
 |Pantakarn Kiatpaisansopon |Waiter | wodwine |
 |Chanachida Fuachai |Bartender | llleyelll |
 |Sirikon  Songsaengthong |Pastry Chef | Sirikonss |
+|Nattapol Boonyapornpong |Manager | bleachjade |
