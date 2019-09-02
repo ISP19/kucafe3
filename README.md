@@ -10,4 +10,5 @@
 |Pantakarn Kiatpaisansopon |Waiter | wodwine |
 |Chanachida Fuachai |Bartender | llleyelll |
 |Sirikon  Songsaengthong |Pastry Chef | Sirikonss |
-|Kasidis Luangwutiwong |Waiter | KasidisGit |
+|Kasidis Luangwutiwong |Musician | KasidisGit |
+|Nattapol Boonyapornpong |Manager | bleachjade |
