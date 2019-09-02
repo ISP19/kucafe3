@@ -28,6 +28,7 @@
 | Hot Milk | $40 |
 | Hot Coffee | $50 |
 | Bubble Milk Tea | $50 |
+| latté | $60 |
 | Herbal Tea | $60 | 
 | Iced Black Tea | $15 |
 | Iced Oolong Tea | $25 |
